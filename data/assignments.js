@@ -39,8 +39,8 @@ assignments = {
       "title": "Vitamin 3",
       "course": "CS 198-008",
       "dueDate": "2024-09-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833372/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833372/submissions/272497877",
+      "submitted": true
     }
   ],
   "DATA C182-LEC-001": [
