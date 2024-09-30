@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 04",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833363/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 2",
       "course": "CS 198-008",
       "dueDate": "2024-09-21T23:59:00",
@@ -41,6 +48,13 @@ assignments = {
       "dueDate": "2024-09-28T23:59:00",
       "link": "https://www.gradescope.com/courses/844937/assignments/4833372/submissions/272497877",
       "submitted": true
+    },
+    {
+      "title": "Vitamin 4",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833378/submissions/new",
+      "submitted": false
     }
   ],
   "DATA C182-LEC-001": [
