@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5050218/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Course Survey (Week 06) (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-10-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5083452/submissions/new",
+      "submitted": false
     }
   ],
   "Data C102": [
