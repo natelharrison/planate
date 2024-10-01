@@ -185,6 +185,13 @@ assignments = {
       "dueDate": "2024-10-02T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "Data C102",
+      "dueDate": "2024-10-04T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
     }
   ],
   "Physics 188/288": [
