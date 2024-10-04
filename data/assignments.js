@@ -199,6 +199,13 @@ assignments = {
       "dueDate": "2024-10-04T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
+    },
+    {
+      "title": "Vitamin 6",
+      "course": "Data C102",
+      "dueDate": "2024-10-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/845267/assignments/5083124/submissions/new",
+      "submitted": false
     }
   ],
   "Physics 188/288": [
