@@ -161,14 +161,14 @@ assignments = {
     {
       "title": "Lab 4 Code",
       "course": "Data C102",
-      "dueDate": "2024-09-26T17:00:00",
+      "dueDate": "2024-09-26T17:30:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
     {
       "title": "Lab 4 Written",
       "course": "Data C102",
-      "dueDate": "2024-09-26T17:00:00",
+      "dueDate": "2024-09-26T17:30:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
@@ -196,7 +196,7 @@ assignments = {
     {
       "title": "Homework 2",
       "course": "Data C102",
-      "dueDate": "2024-10-04T17:00:00",
+      "dueDate": "2024-10-06T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
