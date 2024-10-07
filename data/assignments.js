@@ -36,6 +36,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 05",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833364/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Vitamin 5",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833370/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 2",
       "course": "CS 198-008",
       "dueDate": "2024-09-21T23:59:00",
@@ -78,6 +92,13 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5083452/submissions/274814990",
       "submitted": true
+    },
+    {
+      "title": "Course Survey (Week 07) (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5112734/submissions/new",
+      "submitted": false
     }
   ],
   "Data C102": [
