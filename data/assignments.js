@@ -53,8 +53,8 @@ assignments = {
       "title": "Vitamin 4",
       "course": "CS 198-008",
       "dueDate": "2024-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833378/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833378/submissions/275168379",
+      "submitted": true
     }
   ],
   "DATA C182-LEC-001": [
@@ -204,8 +204,8 @@ assignments = {
       "title": "Vitamin 6",
       "course": "Data C102",
       "dueDate": "2024-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267/assignments/5083124/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5083124/submissions/275171506",
+      "submitted": true
     }
   ],
   "Physics 188/288": [
