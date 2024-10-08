@@ -94,6 +94,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW2",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-10-22T16:06:00",
+      "link": "https://www.gradescope.com/courses/837491",
+      "submitted": false
+    },
+    {
       "title": "Course Survey (Week 07) (optional, extra credit)",
       "course": "DATA C182-LEC-001",
       "dueDate": "2024-10-11T23:59:00",
