@@ -323,15 +323,15 @@ assignments = {
       "title": "Lab 7 Code",
       "course": "Data C102",
       "dueDate": "2024-10-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5185802/submissions/281744003",
+      "submitted": true
     },
     {
       "title": "Lab 7 Written",
       "course": "Data C102",
       "dueDate": "2024-10-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5185881/submissions/281743849",
+      "submitted": true
     },
     {
       "title": "Homework 3",
