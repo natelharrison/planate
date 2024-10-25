@@ -336,7 +336,7 @@ assignments = {
     {
       "title": "Homework 3",
       "course": "Data C102",
-      "dueDate": "2024-10-25T17:00:00",
+      "dueDate": "2024-10-27T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
