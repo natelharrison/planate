@@ -344,7 +344,7 @@ assignments = {
       "title": "Vitamin 8",
       "course": "Data C102",
       "dueDate": "2024-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
+      "link": "https://www.gradescope.com/courses/845267/assignments/5201740/submissions/new",
       "submitted": false
     },
     {
