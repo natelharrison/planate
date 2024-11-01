@@ -364,14 +364,14 @@ assignments = {
     {
       "title": "Lab 8 Written",
       "course": "Data C102",
-      "dueDate": "2024-10-31T17:00:00",
+      "dueDate": "2024-11-01T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
     {
       "title": "Lab 8 Code",
       "course": "Data C102",
-      "dueDate": "2024-10-31T17:00:00",
+      "dueDate": "2024-11-01T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     },
