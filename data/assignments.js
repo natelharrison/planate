@@ -176,6 +176,13 @@ assignments = {
       "dueDate": "2024-11-03T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5233589/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "HW3",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-11-08T15:15:00",
+      "link": "https://www.gradescope.com/courses/837491",
+      "submitted": false
     }
   ],
   "Data C102": [
