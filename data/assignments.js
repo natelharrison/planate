@@ -176,13 +176,6 @@ assignments = {
       "dueDate": "2024-11-03T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5233589/submissions/new",
       "submitted": false
-    },
-    {
-      "title": "HW3",
-      "course": "DATA C182-LEC-001",
-      "dueDate": "2024-11-08T15:15:00",
-      "link": "https://www.gradescope.com/courses/837491",
-      "submitted": false
     }
   ],
   "Data C102": [
@@ -408,6 +401,20 @@ assignments = {
       "course": "Data C102",
       "dueDate": "2024-11-03T23:59:00",
       "link": "https://www.gradescope.com/courses/845267/assignments/5241780/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 9 Code",
+      "course": "Data C102",
+      "dueDate": "2024-11-06T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
+    },
+    {
+      "title": "Lab 9 Written",
+      "course": "Data C102",
+      "dueDate": "2024-11-06T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     }
   ],
