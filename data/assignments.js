@@ -458,8 +458,8 @@ assignments = {
       "title": "Homework 6",
       "course": "Physics 188/288",
       "dueDate": "2024-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/843033",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843033/assignments/5222979/submissions/284948385",
+      "submitted": true
     },
     {
       "title": "Homework 7",
