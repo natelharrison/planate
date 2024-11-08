@@ -435,15 +435,15 @@ assignments = {
       "title": "Lab 9 Code",
       "course": "Data C102",
       "dueDate": "2024-11-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5261202/submissions/286684384",
+      "submitted": true
     },
     {
       "title": "Lab 9 Written",
       "course": "Data C102",
       "dueDate": "2024-11-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5261204/submissions/286684027",
+      "submitted": true
     },
     {
       "title": "Project Proposal",
