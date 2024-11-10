@@ -456,8 +456,8 @@ assignments = {
       "title": "Vitamin 10",
       "course": "Data C102",
       "dueDate": "2024-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267/assignments/5273152/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5273152/submissions/287448973",
+      "submitted": true
     }
   ],
   "Physics 188/288": [
