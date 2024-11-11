@@ -106,6 +106,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 10",
+      "course": "CS 198-008",
+      "dueDate": "2024-11-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833374/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 9",
       "course": "CS 198-008",
       "dueDate": "2024-11-09T23:59:00",
@@ -209,7 +216,7 @@ assignments = {
       "title": "Course Survey (Week 11) (optional, extra credit)",
       "course": "DATA C182-LEC-001",
       "dueDate": "2024-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/837491/assignments/5267446/submissions/new",
+      "link": "https://www.gradescope.com/courses/837491",
       "submitted": false
     }
   ],
