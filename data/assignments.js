@@ -544,6 +544,13 @@ assignments = {
       "dueDate": "2024-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/843033",
       "submitted": false
+    },
+    {
+      "title": "Homework 9",
+      "course": "Physics 188/288",
+      "dueDate": "2024-11-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/843033",
+      "submitted": false
     }
   ]
 };
