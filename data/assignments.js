@@ -481,9 +481,23 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 10 Written",
+      "course": "Data C102",
+      "dueDate": "2024-11-20T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
+    },
+    {
       "title": "Homework 5",
       "course": "Data C102",
       "dueDate": "2024-11-22T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
+    },
+    {
+      "title": "Lab 10 Code",
+      "course": "Data C102",
+      "dueDate": "2024-11-20T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     }
