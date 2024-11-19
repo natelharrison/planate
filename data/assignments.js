@@ -120,7 +120,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 11",
+      "title": "Lab 11 (optional)",
       "course": "CS 198-008",
       "dueDate": "2024-12-07T23:59:00",
       "link": "https://www.gradescope.com/courses/844937/assignments/4833375/submissions/new",
