@@ -232,6 +232,13 @@ assignments = {
       "dueDate": "2024-11-17T23:59:00",
       "link": "https://www.gradescope.com/courses/837491",
       "submitted": false
+    },
+    {
+      "title": "Course Survey (Week 13) (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-11-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5345923/submissions/new",
+      "submitted": false
     }
   ],
   "Data C102": [
