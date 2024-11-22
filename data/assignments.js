@@ -533,7 +533,7 @@ assignments = {
       "title": "Vitamin 12",
       "course": "Data C102",
       "dueDate": "2024-11-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
+      "link": "https://www.gradescope.com/courses/845267/assignments/5354601/submissions/new",
       "submitted": false
     }
   ],
@@ -605,8 +605,8 @@ assignments = {
       "title": "Homework 9",
       "course": "Physics 188/288",
       "dueDate": "2024-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/843033",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843033/assignments/5327600/submissions/291698412",
+      "submitted": true
     }
   ]
 };
