@@ -246,6 +246,13 @@ assignments = {
       "dueDate": "2024-11-24T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5345923/submissions/292538233",
       "submitted": true
+    },
+    {
+      "title": "Course Survey (Week 14) (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-12-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5374991/submissions/new",
+      "submitted": false
     }
   ],
   "Data C102": [
@@ -533,8 +540,8 @@ assignments = {
       "title": "Vitamin 12",
       "course": "Data C102",
       "dueDate": "2024-11-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267/assignments/5354601/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5354601/submissions/292574464",
+      "submitted": true
     },
     {
       "title": "Checkpoint 1",
