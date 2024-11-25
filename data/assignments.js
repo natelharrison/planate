@@ -159,7 +159,7 @@ assignments = {
     {
       "title": "HW4",
       "course": "DATA C182-LEC-001",
-      "dueDate": "2024-12-10T23:59:00",
+      "dueDate": "2024-12-15T23:59:00",
       "link": "https://www.gradescope.com/courses/837491",
       "submitted": false
     },
