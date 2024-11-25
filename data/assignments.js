@@ -519,8 +519,8 @@ assignments = {
       "title": "Homework 5",
       "course": "Data C102",
       "dueDate": "2024-11-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5335454/submissions/292431951",
+      "submitted": true
     },
     {
       "title": "Lab 10 Code",
