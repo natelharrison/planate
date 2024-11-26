@@ -537,6 +537,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 11 Written",
+      "course": "Data C102",
+      "dueDate": "2024-12-04T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
+    },
+    {
+      "title": "Lab 11 Code",
+      "course": "Data C102",
+      "dueDate": "2024-12-04T17:00:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 12",
       "course": "Data C102",
       "dueDate": "2024-11-24T23:59:00",
