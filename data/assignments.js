@@ -563,6 +563,13 @@ assignments = {
       "dueDate": "2024-11-26T23:59:00",
       "link": "https://www.gradescope.com/courses/845267/assignments/5372435/submissions/293182097",
       "submitted": true
+    },
+    {
+      "title": "Midterm 2 Corrections",
+      "course": "Data C102",
+      "dueDate": "2024-12-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
     }
   ],
   "Physics 188/288": [
