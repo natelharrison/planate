@@ -251,7 +251,7 @@ assignments = {
       "title": "Course Survey (Week 14) (optional, extra credit)",
       "course": "DATA C182-LEC-001",
       "dueDate": "2024-12-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/837491/assignments/5374991/submissions/new",
+      "link": "https://www.gradescope.com/courses/837491",
       "submitted": false
     }
   ],
