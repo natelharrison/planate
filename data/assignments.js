@@ -577,6 +577,13 @@ assignments = {
       "dueDate": "2024-12-13T23:59:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
+    },
+    {
+      "title": "Checkpoint 2",
+      "course": "Data C102",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/845267",
+      "submitted": false
     }
   ],
   "Physics 188/288": [
