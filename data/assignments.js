@@ -589,8 +589,8 @@ assignments = {
       "title": "Checkpoint 2",
       "course": "Data C102",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5415915/submissions/295478190",
+      "submitted": true
     },
     {
       "title": "Vitamin 13",
