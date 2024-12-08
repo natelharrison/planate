@@ -267,6 +267,13 @@ assignments = {
       "dueDate": "2024-12-08T23:59:00",
       "link": "https://www.gradescope.com/courses/837491/assignments/5399377/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "University official course evaluation (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-12-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5426756/submissions/new",
+      "submitted": false
     }
   ],
   "Data C102": [
