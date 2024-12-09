@@ -265,7 +265,14 @@ assignments = {
       "title": "Course Survey (Week 15) (optional, extra credit)",
       "course": "DATA C182-LEC-001",
       "dueDate": "2024-12-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/837491/assignments/5399377/submissions/new",
+      "link": "https://www.gradescope.com/courses/837491",
+      "submitted": false
+    },
+    {
+      "title": "Course Survey (Week 16) (optional, extra credit)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2024-12-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491/assignments/5426149/submissions/new",
       "submitted": false
     },
     {
@@ -603,7 +610,7 @@ assignments = {
       "title": "Vitamin 13",
       "course": "Data C102",
       "dueDate": "2024-12-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267/assignments/5417469/submissions/new",
+      "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     }
   ],
