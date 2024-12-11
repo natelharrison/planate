@@ -610,7 +610,7 @@ assignments = {
       "title": "Vitamin 13",
       "course": "Data C102",
       "dueDate": "2024-12-10T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267/assignments/5417469/submissions/new",
+      "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     }
   ],
