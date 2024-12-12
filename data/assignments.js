@@ -612,27 +612,6 @@ assignments = {
       "dueDate": "2024-12-10T17:00:00",
       "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
-    },
-    {
-      "title": "Final Project Report",
-      "course": "Data C102",
-      "dueDate": "2024-05-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
-    },
-    {
-      "title": "Final Project Code",
-      "course": "Data C102",
-      "dueDate": "2024-05-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
-    },
-    {
-      "title": "Final Project Group Member Evalution",
-      "course": "Data C102",
-      "dueDate": "2024-05-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
     }
   ],
   "Physics 188/288": [
