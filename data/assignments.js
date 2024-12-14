@@ -596,8 +596,8 @@ assignments = {
       "title": "Midterm 2 Corrections",
       "course": "Data C102",
       "dueDate": "2024-12-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5384955/submissions/297485070",
+      "submitted": true
     },
     {
       "title": "Checkpoint 2",
