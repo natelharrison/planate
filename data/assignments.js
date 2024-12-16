@@ -11,8 +11,8 @@ assignments = {
       "title": "Vitamin 1",
       "course": "CS 198-008",
       "dueDate": "2024-09-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833359/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833359/submissions/297678745",
+      "submitted": true
     },
     {
       "title": "Lab 02",
@@ -67,8 +67,8 @@ assignments = {
       "title": "Vitamin 7",
       "course": "CS 198-008",
       "dueDate": "2024-10-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833367/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833367/submissions/297680257",
+      "submitted": true
     },
     {
       "title": "Lab 07",
@@ -81,15 +81,15 @@ assignments = {
       "title": "Vitamin 6",
       "course": "CS 198-008",
       "dueDate": "2024-10-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833369/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833369/submissions/297680082",
+      "submitted": true
     },
     {
       "title": "Vitamin 5",
       "course": "CS 198-008",
       "dueDate": "2024-10-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833370/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833370/submissions/297679097",
+      "submitted": true
     },
     {
       "title": "Vitamin 2",
