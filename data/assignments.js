@@ -617,8 +617,8 @@ assignments = {
       "title": "Final Project Report",
       "course": "Data C102",
       "dueDate": "2024-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/845267",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845267/assignments/5449784/submissions/298254768",
+      "submitted": true
     },
     {
       "title": "Final Project Code",
@@ -632,13 +632,6 @@ assignments = {
       "course": "Data C102",
       "dueDate": "2024-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/845267/assignments/5449786/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "Homework 6",
-      "course": "Data C102",
-      "dueDate": "2024-12-19T17:00:00",
-      "link": "https://www.gradescope.com/courses/845267",
       "submitted": false
     }
   ],
