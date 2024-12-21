@@ -717,7 +717,7 @@ assignments = {
       "title": "Project 3",
       "course": "Physics 188/288",
       "dueDate": "2024-12-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/843033/assignments/5425191/submissions/298496734",
+      "link": "https://www.gradescope.com/courses/843033/assignments/5425191/submissions/298509849",
       "submitted": true
     }
   ]
