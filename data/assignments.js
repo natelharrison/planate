@@ -157,6 +157,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "hw1 (sp22)",
+      "course": "DATA C182-LEC-001",
+      "dueDate": "2025-02-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/837491",
+      "submitted": false
+    },
+    {
       "title": "hw2 (sp22)",
       "course": "DATA C182-LEC-001",
       "dueDate": "2025-02-14T23:59:00",
